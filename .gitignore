@@ -1,0 +1,22 @@
+.vscode/
+
+# input/output files
+*.txt
+*.in
+*.out
+
+# executables
+*.exe
+
+# documents
+*.pdf
+*.docx
+
+# compressed files
+*.tar.gz
+*.rar
+*.zip
+
+# other test files
+test*.py
+test*.cpp
