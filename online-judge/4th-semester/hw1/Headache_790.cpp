@@ -1,11 +1,11 @@
-using namespace std;
-
 #include <iostream>
 #include <string>
 #include <map>
 #include <vector>
 #include <sstream>
 #include <algorithm>
+
+using namespace std;
 
 class Submission
 {
@@ -108,7 +108,7 @@ int main()
     {
 
         getline(cin, line);
-        while(line != "\n" and line != "" and line != "stop")
+        while(line != "\n" && line != "" && line != "stop")
         {
             stringstream split(line);
             split >> teamId;
