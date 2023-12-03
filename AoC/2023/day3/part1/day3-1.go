@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"fmt"
 	"os"
 	"strconv"
 	"unicode"
@@ -85,6 +86,6 @@ func main() {
 	}
 
 	total := solve(matrix)
-	println("total:", total)
+	fmt.Println("total:", total)
 
 }
