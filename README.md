@@ -1,7 +1,6 @@
 # Competitive Programming Solutions
 
-A compilation of various solutions of problems from 
-[OnlineJudge](https://onlinejudge.org) and [LeetCode](https://leetcode.com). 
+A compilation of various solutions of problems from [OnlineJudge](https://onlinejudge.org), [LeetCode](https://leetcode.com) and [Advent of Code](https://adventofcode.com/). 
 
 My profiles:
 - OnlineJudge: [Buitragox](https://uhunt.onlinejudge.org/id/1104630)

@@ -1,3 +1,10 @@
+/*
+Jhoan Buitrago
+03/12/2023 dd/mm/yy
+
+https://adventofcode.com/2023/day/3
+*/
+
 package main
 
 import (

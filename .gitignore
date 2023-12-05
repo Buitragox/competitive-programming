@@ -20,3 +20,6 @@
 # other test files
 test*.py
 test*.cpp
+
+# rust stuff
+target/
