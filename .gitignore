@@ -23,3 +23,5 @@ test*.cpp
 
 # rust stuff
 target/
+
+go.work
