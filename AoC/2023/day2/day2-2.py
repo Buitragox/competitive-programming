@@ -18,7 +18,6 @@ def main():
     line = stdin.readline()
     game_id = 1
     while line != "":
-        line.strip()
         _, sets = line.split(":")
         sets = sets.split(";")
 
