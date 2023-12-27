@@ -113,7 +113,6 @@ class Hand:
                 self.hand_type = HandTypes.HighCard
         
 
-
 def main():
     line = stdin.readline()
     hands: list[Hand] = []
